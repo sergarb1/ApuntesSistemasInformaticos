@@ -1,5 +1,0 @@
-Pedro:Spain
-Juan:Spain
-Mark:Holland
-Vladimir:Russia
-Terry:USA
